@@ -1,7 +1,7 @@
 <?php
     //Declaracion del arreglo
     $primer_arreglo = [];
-    //Insersion de datos por su indice
+    //Inserción de datos por su indice
     $primer_arreglo[0] = 'Hola';
     $primer_arreglo[1] = 'Mundo';
     echo 'Mensaje de bienvenida: <b>'.$primer_arreglo[0].' '.$primer_arreglo[1].'</b><br>';

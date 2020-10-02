@@ -26,8 +26,5 @@
     ];
     foreach ($informacion as $valor) {
         print 'El nombre es: '.$valor.'<br>';
-    }
-    
-    
-   
+    } 
 ?>

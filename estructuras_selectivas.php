@@ -15,14 +15,15 @@
         $mayor = $tercer;
     }   
     echo 'EL NUMERO MAYOR ES: <b>'.$mayor.'</b><br>'; 
-    echo '<br><b>Operador terniario</b><br>';
+    echo '<br><b>Operador ternario</b><br>';
     $v = 1;
     $r = (1 == $v) ? 'Si' : 'No'; 
     $r = (3 == $v) ? 'Si' : 'No';
     echo (1 == $v) ? 'Si' : 'No' ;
     echo '<br><br><b>Estructura Switch</b><br>';
-    /*Nos apoyamos de una funcion de php date() la cual;
-      con el parametro "D" nos hace Una representación textual de un día, tres letras, Mon hasta Sun*/  
+    /*Nos apoyamos de una funcion de php date() la cual,
+      con el parametro "D" nos hace Una representación textual de un día,
+      tres letras, Mon hasta Sun*/  
     $dia_actual = date("D");
     $nombre_dia = '';
     switch ($dia_actual):

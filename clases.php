@@ -19,8 +19,4 @@
     echo '<br> <b>Nombre:</b>  '.$producto->nombre;
     echo '<br> <b>Descripcion:</b> '.$producto->descripcion;
     echo '<br> <b>Precio Real:</b>  $'.$producto->precioIVA();
-    
-    
-
-
 ?>
