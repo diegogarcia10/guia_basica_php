@@ -9,7 +9,7 @@ _Tener WampServer instalado les dejo el link aqui:_
 (Instala segun tu arquitectura 32 o 64 bits).
 * [Wampserver](https://www.wampserver.com/en/) - en la sección de descargas.
 
-_hacer el git clone en la carpeta wwww donde esta la instalacion wampserver_
+_hacer el git clone en la carpeta www donde esta la instalacion wampserver_
 ## Autores ✒️
 * **Diego Ochoa** - *Project Manager* 
 * **René Martínez** - *Project Manager* 
